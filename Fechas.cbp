@@ -31,6 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="fechas.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="fechas.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
